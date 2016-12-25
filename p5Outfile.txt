@@ -1,0 +1,391 @@
+targetInt 1 encapsulates 5
+
+targetInt 2 encapsulates 10
+
+targetInt 3 encapsulates 15
+
+targetInt 4 encapsulates 5
+
+Testing collection of targetInt
+targetInt 1: 
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: 0
+
+Number of Guesses: 6
+Number of Low Guesses: 5
+Number of High Guesses: 0
+Average Guess: 2.5
+Known: 1
+
+
+targetInt 2: 
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: 0
+
+Number of Guesses: 11
+Number of Low Guesses: 10
+Number of High Guesses: 0
+Average Guess: 5
+Known: 1
+
+
+targetInt 3: 
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: -1
+Guess 11 gets: -1
+Guess 12 gets: -1
+Guess 13 gets: -1
+Guess 14 gets: -1
+Guess 15 gets: 0
+
+Number of Guesses: 16
+Number of Low Guesses: 15
+Number of High Guesses: 0
+Average Guess: 7.5
+Known: 1
+
+
+targetInt 4: 
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: 0
+
+Number of Guesses: 6
+Number of Low Guesses: 5
+Number of High Guesses: 0
+Average Guess: 2.5
+Known: 1
+
+
+targetInt 1 + targetInt 2 produces the following stats: 
+Number of Guesses: 0
+Number of Low Guesses: 0
+Number of High Guesses: 0
+Average Guess: 0
+Known: 0
+
+
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: -1
+Guess 11 gets: -1
+Guess 12 gets: -1
+Guess 13 gets: -1
+Guess 14 gets: -1
+Guess 15 gets: 0
+
+targetInt 2 + 3 produces the following stats: 
+Number of Guesses: 0
+Number of Low Guesses: 0
+Number of High Guesses: 0
+Average Guess: 0
+Known: 0
+
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: -1
+Guess 11 gets: -1
+Guess 12 gets: -1
+Guess 13 gets: 0
+
+4 + targetInt 2 produces the following stats: 
+Number of Guesses: 0
+Number of Low Guesses: 0
+Number of High Guesses: 0
+Average Guess: 0
+Known: 0
+
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: -1
+Guess 11 gets: -1
+Guess 12 gets: -1
+Guess 13 gets: -1
+Guess 14 gets: 0
+
+The previous targetInt += 5 produces the following stats: 
+
+Number of Guesses: 0
+Number of Low Guesses: 0
+Number of High Guesses: 0
+Average Guess: 0
+Known: 0
+
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: -1
+Guess 11 gets: -1
+Guess 12 gets: -1
+Guess 13 gets: -1
+Guess 14 gets: -1
+Guess 15 gets: -1
+Guess 16 gets: -1
+Guess 17 gets: -1
+Guess 18 gets: -1
+Guess 19 gets: 0
+
+The previous targetInt += targetInt 1 produces the following stats: 
+
+Number of Guesses: 0
+Number of Low Guesses: 0
+Number of High Guesses: 0
+Average Guess: 0
+Known: 0
+
+Guess 0 gets: -1
+Guess 1 gets: -1
+Guess 2 gets: -1
+Guess 3 gets: -1
+Guess 4 gets: -1
+Guess 5 gets: -1
+Guess 6 gets: -1
+Guess 7 gets: -1
+Guess 8 gets: -1
+Guess 9 gets: -1
+Guess 10 gets: -1
+Guess 11 gets: -1
+Guess 12 gets: -1
+Guess 13 gets: -1
+Guess 14 gets: -1
+Guess 15 gets: -1
+Guess 16 gets: -1
+Guess 17 gets: -1
+Guess 18 gets: -1
+Guess 19 gets: -1
+Guess 20 gets: -1
+Guess 21 gets: -1
+Guess 22 gets: -1
+Guess 23 gets: -1
+Guess 24 gets: 0
+
+targetInt 1 = targetInt 2 produces the following stats: 
+
+Number of Guesses: 11
+Number of Low Guesses: 10
+Number of High Guesses: 0
+Average Guess: 5
+Known: 1
+
+
+Note: targetInt 1 now = targetInt 2 for all further testing
+
+targetInt 1 == targetInt 4 produces: 0
+targetInt 1 != targetInt 4 produces: 1
+targetInt 1 == targetInt 2 produces: 1
+targetInt 1 < targetInt 3 produces: 1
+targetInt 1 > targetInt 3 produces: 0
+targetInt 1 >= targetInt 2 produces: 1
+targetInt 1 <= targetInt 4 produces: 0
+
+Begin testing randomTargets: 
+
+randomTargets 1 encapsulates the following: 2, 4, 8, 
+randomTargets 2 encapsulates the following: 4, 5, 10, 
+randomTargets 3 encapsulates the following: 3, 6, 9, 
+randomTargets 4 encapsulates the following: 2, 4, 8, 
+Testing randomTargets 1 + randomTargets 2
+
+Guess 0 returns 0 correct values
+Guess 1 returns 0 correct values
+Guess 2 returns 1 correct values
+Guess 3 returns 0 correct values
+Guess 4 returns 2 correct values
+Guess 5 returns 1 correct values
+Guess 6 returns 0 correct values
+Guess 7 returns 0 correct values
+Guess 8 returns 1 correct values
+Guess 9 returns 0 correct values
+Guess 10 returns 1 correct values
+
+Testing randomTargets 1 + 8
+
+Guess 0 returns 0 correct values
+Guess 1 returns 0 correct values
+Guess 2 returns 1 correct values
+Guess 3 returns 0 correct values
+Guess 4 returns 1 correct values
+Guess 5 returns 0 correct values
+Guess 6 returns 0 correct values
+Guess 7 returns 0 correct values
+Guess 8 returns 2 correct values
+
+Testing 5 + randomTargets 1
+
+Guess 0 returns 0 correct values
+Guess 1 returns 0 correct values
+Guess 2 returns 1 correct values
+Guess 3 returns 0 correct values
+Guess 4 returns 1 correct values
+Guess 5 returns 1 correct values
+Guess 6 returns 0 correct values
+Guess 7 returns 0 correct values
+Guess 8 returns 1 correct values
+
+Testing randomTargets 1 += randomTargets 2
+Guess 0 returns 0 correct values
+Guess 1 returns 0 correct values
+Guess 2 returns 1 correct values
+Guess 3 returns 0 correct values
+Guess 4 returns 2 correct values
+Guess 5 returns 1 correct values
+Guess 6 returns 0 correct values
+Guess 7 returns 0 correct values
+Guess 8 returns 1 correct values
+Guess 9 returns 0 correct values
+Guess 10 returns 1 correct values
+
+Testing randomTargets 1 += 4
+Guess 0 returns 0 correct values
+Guess 1 returns 0 correct values
+Guess 2 returns 1 correct values
+Guess 3 returns 0 correct values
+Guess 4 returns 2 correct values
+Guess 5 returns 0 correct values
+Guess 6 returns 0 correct values
+Guess 7 returns 0 correct values
+Guess 8 returns 1 correct values
+
+randomTargets 1 == randomTargets 2 produces: 0
+
+randomTargets 1 == randomTargets 4 produces: 1
+
+randomTargets 1 != randomTargets 2 produces: 1
+
+randomTargets 1 != randomTargets 4 produces: 0
+
+randomTargets 1 < randomTargets 2 produces: 0
+
+randomTargets 1 <= randomTargets 2 produces: 1
+
+randomTargets 1 > randomTargets 2 produces: 0
+
+randomTargets 1 >= randomTargets 2 produces: 1
+
+Testing randomTargets 3
+Guess 0 returns 0 correct values
+Stats before deletion of known
+Average Guess: 0
+Highest high Guesses: 0
+Highest low Guesses: 1
+Size: 3
+
+Guess 1 returns 0 correct values
+Stats before deletion of known
+Average Guess: 0.5
+Highest high Guesses: 0
+Highest low Guesses: 2
+Size: 3
+
+Guess 2 returns 0 correct values
+Stats before deletion of known
+Average Guess: 1
+Highest high Guesses: 0
+Highest low Guesses: 3
+Size: 3
+
+Guess 3 returns 1 correct values
+Stats before deletion of known
+Average Guess: 1.5
+Highest high Guesses: 0
+Highest low Guesses: 4
+Size: 3
+
+Guess 4 returns 0 correct values
+Stats before deletion of known
+Average Guess: 2
+Highest high Guesses: 0
+Highest low Guesses: 5
+Size: 2
+
+Guess 5 returns 0 correct values
+Stats before deletion of known
+Average Guess: 2.5
+Highest high Guesses: 0
+Highest low Guesses: 6
+Size: 2
+
+Guess 6 returns 1 correct values
+Stats before deletion of known
+Average Guess: 3
+Highest high Guesses: 0
+Highest low Guesses: 7
+Size: 2
+
+Guess 7 returns 0 correct values
+Stats before deletion of known
+Average Guess: 3.5
+Highest high Guesses: 0
+Highest low Guesses: 8
+Size: 1
+
+Guess 8 returns 0 correct values
+Stats before deletion of known
+Average Guess: 4
+Highest high Guesses: 0
+Highest low Guesses: 9
+Size: 1
+
+Guess 9 returns 1 correct values
+Stats before deletion of known
+Average Guess: 4.5
+Highest high Guesses: 0
+Highest low Guesses: 9
+Size: 1
+
